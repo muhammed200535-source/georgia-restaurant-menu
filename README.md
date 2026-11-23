@@ -44,5 +44,5 @@ The menu content lives in the `MENU` array in `index.html`. To change a price or
 
 ## Credits
 
-Design and development by **Muhammed Selim / ZeminMedia**, built with AI assistance (Claude).
+Design and development by Muhammed Selim , built with AI assistance (Claude).
 Dish photos belong to Restaurant Georgia.
