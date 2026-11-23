@@ -44,5 +44,7 @@ The menu content lives in the `MENU` array in `index.html`. To change a price or
 
 ## Credits
 
-Design and development by Muhammed Selim , built with AI assistance (Claude).
+Designed and delivered by **Muhammed Selim**: concept, UI design,
+menu content in 3 languages, the printed NFC/QR table stand, client communication
+and deployment. The code was written with AI assistance (Claude).
 Dish photos belong to Restaurant Georgia.
